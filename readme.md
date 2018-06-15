@@ -11,4 +11,4 @@ If you would like to comment or add content, please feel free to add an [issue](
 
 Please see our [Project website](https://pages.github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/) to view the workshops list and supporting materials.
 
-![CC-BY-NC logo image](https://camo.githubusercontent.com/02c83ffca972b4213ff5ce9a4b9b10ebcb17fd4a/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792d6e632f342e302f38307831352e706e67)
+![CC-BY-NC logo image](https://github.com/NCSU-Libraries/digital-scholarship-workshops/blob/master/images/cc-by-nc%20license.png)
