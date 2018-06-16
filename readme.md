@@ -9,6 +9,6 @@ These workshop materials are intended as a resource for anyone who wants to cond
 
 If you would like to comment or add content, please feel free to add an [issue](https://github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/issues) or make a [pull request](https://github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/pulls)!
 
-Please see our [Project website](https://pages.github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/) to view the workshops list and supporting materials.
+Please see our [Project website](http://go.ncsu.edu/digitalscholarshipworkshops) to view the workshops list and supporting materials.
 
 <a href="https://creativecommons.org/licenses/by-nc/2.0/"><img src="https://github.com/NCSU-Libraries/digital-scholarship-workshops/blob/master/images/cc-by-nc%20license.png"></a> NCSU Libraries
