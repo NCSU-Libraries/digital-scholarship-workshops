@@ -7,7 +7,7 @@ This repository contains materials created by the NCSU Libraries for our [Digita
 
 These workshop materials are intended as a resource for anyone who wants to conduct or adapt these digital scholarship workshops.
 
-If you would like to comment or add content, please feel free to add an [issue](https://github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/issues) or make a [pull request](https://github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/pulls)!
+If you would like to comment or add content, please feel free to add an [issue](https://github.com/NCSU-Libraries/digital-scholarship-workshops/issues) or make a [pull request](https://github.com/NCSU-Libraries/digital-scholarship-workshops/pulls)!
 
 Please see our [Project website](http://go.ncsu.edu/digitalscholarshipworkshops) to view the workshops list and supporting materials.
 
