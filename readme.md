@@ -1,5 +1,5 @@
 ## NCSU Digital Scholarship Workshops
-### [Project website](https://pages.github.ncsu.edu/eyhayes/NCSU-Digital-Scholarship-Workshops/): 
+### Project website: go.ncsu.edu/digitalscholarshipworkshops
 
 ![Digital Scholarship logo image](https://www.lib.ncsu.edu/sites/default/files/styles/738_max_width/public/news_item_alt_02.png?itok=6Rx-SQkE)
 
