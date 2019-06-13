@@ -1,0 +1,31 @@
+Author	Johnson, A.J.
+Date	1860
+Short Title	North And South Carolina.
+Publisher	Johnson and Browning
+Publisher Location	New York
+Type	Atlas Map
+Obj Height cm	44
+Obj Width cm	61
+Scale 1	1,584,000
+Note	In full color by county. Inset map of the city of Charleston.
+Reference	P6140-26-27.
+State/Province	North Carolina
+State/Province	South Carolina
+Full Title	Johnson's North And South Carolina By Johnson & Browning. No. 26-27.
+List No	2905.017
+Series No	21
+Publication Author	Johnson, A.J.
+Pub Date	1860
+Pub Title	Johnson's New Illustrated (Steel Plate) Family Atlas, With Descriptions, Geographical, Statistical, And Historical. Compiled, Drawn, and Engraved Under The Supervision Of J.H. Colton And A.J. Johnson. New York: Johnson And Browning, Formerly (Successors To J.H. Colton And Company,) No. 133 Nassau Street. 1860. Entered ... One Thousand Eight Hundred and Sixty, by Johnson & Browning ... Virginia.
+Pub Reference	P6140.
+Pub Note	1st Edition, 1st issue. Most of the maps come from Colton's 1859 edition of the General Atlas, published by Johnson and Browning, indicating the Johnson connection; some do not come from this atlas, and their sources are: the New England maps (scale 1" = 9 miles) come from Colton's map of New England and then the sub-maps of Vermont and New Hampshire, Mass/Conn/R.I.; the Ohio/Indiana is still a mystery; all the 1" = 24 miles maps (Iowa, Kentucky, etc.) come from Colton's Map of the United States and the Canadas, originally published by J. Calvin Smith in 1843 (see W. Heckrotte's copies and his list of editions); and the Colton General Atlas maps used by Johnson come from Colton's Travellers Series of maps - see our copies of Penn., Indiana. Colton mentions "The National Atlas of the United States, constructed from the Public Surveys..large Folio" as in preparation in his 1855 catalogue; this may be the embryonic Johnson Atlas. Colton used his wall maps "cut up" for pocket maps and Atlases. Johnson's maps of S. America, Europe, Africa, and (in the first edition, first issue, only) China, East Indies etc., all come from D. Griffing Johnson's Map of the World, 1847. These atlas maps are updated (esp. Africa). Colton took over the publication of the World Map in 1849, issued editions to 1868 (Ristow p318). Also, Johnson's N. America map is the inset N. America in Smith's Map of the U.S., the Canadas, etc. This first issue of Johnson's Family Atlas differs from the later 1860 edition in a small N.Y. (from the Colton U.S. map), small Texas, and many of the maps have fewer views or no views or different configurations. Clearly, this was a first attempt that was refined later in the year. Another issue of this same edition was published in Richmond, Virginia, the home town of Browning (I.L.). The California map originates with Johnson's New Illustrated and Embellished County Map of the Republics of North America, 1859 (1859 our copy, 1st ed. 1856), by D.G. and A.J. Joh
+Pub List No	2905.000
+Pub Type	World Atlas
+Pub Maps	55
+Pub Height cm	47
+Pub Width cm	38
+Image No	2905017
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0031/2905017.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Johnson, A.J.
+Collection	Rumsey Collection
